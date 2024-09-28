@@ -29,7 +29,6 @@ Proyek ini menggunakan:
 - Matplotlib dan Seaborn untuk visualisasi
 - Scikit-learn untuk machine learning
 - XGBoost untuk model prediktif
-- Streamlit untuk antarmuka pengguna
 
 ## Instalasi
 Untuk menjalankan proyek ini, Anda perlu menginstal dependensi berikut:
